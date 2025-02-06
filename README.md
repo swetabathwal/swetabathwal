@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I'm Sweta Bathwal
 👩‍💻I'm a Frontend developer<br>😊Love to contribute on projects<br>🤝Looking for frontend projects
 
 
